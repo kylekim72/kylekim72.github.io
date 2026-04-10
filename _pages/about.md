@@ -25,13 +25,17 @@ Before I came to CU Boulder, I did my undergrad at Konkuk University, Seoul, Sou
 ## Publications
 
  - [Effectively Propositional Higher-Order Functional Programming](/files/OOPSLA26-Ravencheck.pdf)
+ 
  Nicholas V.Lewchenko, **Kunha Kim**, Bor-Yuh Evan Chang, Gowtham Kaki.
+ 
  OOPSLA 2026
 
 ## Teaching
 
 **Konkuk University**
+
 Spring 2023, 2024 Undergrad TA: Intro to C programming
+
 Fall 2023, 2024 Undergrad TA: Theory of Computation
 
 ## Service
