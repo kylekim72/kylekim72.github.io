@@ -11,9 +11,9 @@ redirect_from:
 
 Hi there! I'm Kunha Kim, a first-year PhD Student at Univeristy of Colorado Boulder. I am fortunate to be advised by [Gowtham Kaki](https://gowthamk.github.io/). My current research interests are in programming languages and automated reasoning. More specifically, I'm interested in
 
-- Decidable verification techniques
-- LLM-driven formal verification
+- Automated software verification
 - Dependent type systems, functional programming
+- LLM-driven formal verification
 
 
 I also worked with Java PathFinder(JPF) team via Google Summer of Code 2024. During the internship, I developed violation witness generation in Symbolic PathFinder(SPF). This feature is ported to Java Ranger, and me and our team won the 1st place at SV-COMP 2025! You can see the full description of my work [here](https://github.com/kylekim72/GSoC-2024/blob/main/README.md). 
