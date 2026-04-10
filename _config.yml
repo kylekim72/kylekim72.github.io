@@ -23,12 +23,12 @@ repository               : "kylekim72/kylekim72.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Garden_photo.jpeg"
   name             : "Kunha Kim"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "1st year PhD Student"
   location         : "Boulder, CO, USA"
-  employer         : "University of Colorado, Boulder"
+  employer         : "University of Colorado"
   uri              : # URL
   email            : "kunha.kim@colorado.edu" 
 
