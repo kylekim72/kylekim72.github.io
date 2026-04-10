@@ -1,6 +1,6 @@
 # About me
 
-Hi there! I'm Kunha Kim, a first-year PhD Student at Univerist of Colorado Boulder(CU Boulder).
+Hi there! I'm Kunha Kim, a first-year PhD Student at Univerist of Colorado Boulder(CU Boulder). I am fortunate to be advised by [Gowtham Kaki](https://gowthamk.github.io/).
 
 ## Publications
 
